@@ -1,0 +1,100 @@
+ChildReport : Validation Results
+=========================================
+
+err = 54, warn = 11, info = 4
+$--
+Generated $--. FHIR version $-- for hl7.fhir.be.childreport#$-- (canonical = https://www.ehealth.fgov.be/standards/fhir/childreport)
+ Build Errors : 0 / 0 / 0
+ /work/fsh-generated/resources/CodeSystem-cs-child-report-documentation : 0 / 0 / 1
+ /work/fsh-generated/resources/CodeSystem-cs-eye-movement-and-position : 0 / 0 / 1
+ /work/fsh-generated/resources/ImplementationGuide-hl7.fhir.be.childreport : 0 / 0 / 1
+ /work/fsh-generated/resources/StructureDefinition-BeChildReportComposition : 0 / 1 / 2
+ /work/fsh-generated/resources/StructureDefinition-BeModelChildReport : 18 / 0 / 1
+ /work/fsh-generated/resources/StructureDefinition-be-vl-childreport : 30 / 9 / 1
+ /work/fsh-generated/resources/ValueSet-vs-eye-movement-and-position : 1 / 0 / 2
+ /work/fsh-generated/resources/ValueSet-vs-eye-screening-results : 2 / 1 / 2
+ /work/fsh-generated/resources/ValueSet-vs-neonatal-hearing-screening-results : 2 / 1 / 2
+ /work/fsh-generated/resources/ValueSet-vs-ophthalmologist-treatments : 1 / 1 / 2
+</table>
+== n/a ==
+== fsh-generated/resources/CodeSystem-cs-child-report-documentation.json ==
+== fsh-generated/resources/CodeSystem-cs-eye-movement-and-position.json ==
+== fsh-generated/resources/ImplementationGuide-hl7.fhir.be.childreport.json ==
+== fsh-generated/resources/StructureDefinition-BeChildReportComposition.json ==
+== fsh-generated/resources/StructureDefinition-BeModelChildReport.json ==
+ERROR: StructureDefinition/BeModelChildReport: StructureDefinition.snapshot.element[25].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/BeModelChildReport: StructureDefinition.snapshot.element[29].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/BeModelChildReport: StructureDefinition.snapshot.element[32].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/BeModelChildReport: StructureDefinition.snapshot.element[38].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/BeModelChildReport: StructureDefinition.snapshot.element[43].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/BeModelChildReport: StructureDefinition.snapshot.element[48].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/BeModelChildReport: StructureDefinition.snapshot.element[56].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/BeModelChildReport: StructureDefinition.snapshot.element[65].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/BeModelChildReport: StructureDefinition.snapshot.element[73].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/BeModelChildReport: StructureDefinition.differential.element[7].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/BeModelChildReport: StructureDefinition.differential.element[11].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/BeModelChildReport: StructureDefinition.differential.element[14].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/BeModelChildReport: StructureDefinition.differential.element[20].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/BeModelChildReport: StructureDefinition.differential.element[25].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/BeModelChildReport: StructureDefinition.differential.element[30].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/BeModelChildReport: StructureDefinition.differential.element[35].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/BeModelChildReport: StructureDefinition.differential.element[41].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/BeModelChildReport: StructureDefinition.differential.element[46].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+== fsh-generated/resources/StructureDefinition-be-vl-childreport.json ==
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.snapshot.element[163].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.snapshot.element[257].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.snapshot.element[344].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.snapshot.element[431].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.snapshot.element[518].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.snapshot.element[529].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+WARNING: StructureDefinition/be-vl-childreport: StructureDefinition.snapshot.element[536].pattern.ofType(Coding): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.snapshot.element[609].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.snapshot.element[620].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+WARNING: StructureDefinition/be-vl-childreport: StructureDefinition.snapshot.element[627].pattern.ofType(Coding): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.snapshot.element[700].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.snapshot.element[787].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.snapshot.element[874].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.snapshot.element[961].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.snapshot.element[972].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+WARNING: StructureDefinition/be-vl-childreport: StructureDefinition.snapshot.element[979].pattern.ofType(Coding): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.snapshot.element[1052].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.snapshot.element[1063].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+WARNING: StructureDefinition/be-vl-childreport: StructureDefinition.snapshot.element[1070].pattern.ofType(Coding): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.differential.element[14].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.differential.element[24].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.differential.element[32].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.differential.element[40].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.differential.element[47].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.differential.element[51].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+WARNING: StructureDefinition/be-vl-childreport: StructureDefinition.differential.element[54].pattern.ofType(Coding): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.differential.element[58].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.differential.element[62].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+WARNING: StructureDefinition/be-vl-childreport: StructureDefinition.differential.element[65].pattern.ofType(Coding): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.differential.element[69].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.differential.element[76].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.differential.element[83].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.differential.element[90].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.differential.element[93].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+WARNING: StructureDefinition/be-vl-childreport: StructureDefinition.differential.element[96].pattern.ofType(Coding): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.differential.element[100].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: StructureDefinition/be-vl-childreport: StructureDefinition.differential.element[103].pattern.ofType(CodeableConcept): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+WARNING: StructureDefinition/be-vl-childreport: StructureDefinition.differential.element[106].pattern.ofType(Coding): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+== fsh-generated/resources/ValueSet-vs-eye-movement-and-position.json ==
+ERROR: ValueSet/vs-eye-movement-and-position: ValueSet.compose.include[1].concept[0]: The code '307699005' is not valid in the system http://snomed.info/sct (Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.)
+INFORMATION: ValueSet/vs-eye-movement-and-position: ValueSet.compose.include[1].concept[0]: Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+== fsh-generated/resources/ValueSet-vs-eye-screening-results.json ==
+ERROR: ValueSet/vs-eye-screening-results: ValueSet.compose.include[0].concept[0]: The code '280413001' is not valid in the system http://snomed.info/sct (Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.)
+INFORMATION: ValueSet/vs-eye-screening-results: ValueSet.compose.include[0].concept[0]: Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: ValueSet/vs-eye-screening-results: ValueSet.compose.include[0].concept[1]: Error from https://apps.health.belgium.be/ontoserver/fhir: Error: Invalid request: The FHIR endpoint on this server does not know how to handle POST operation[ValueSet/$batch-validate-code] with parameters [[]]
+Information: X-Request-Id: b2fb5ec7-f6d7-415a-b471-76db455b809d
+WARNING: ValueSet.where(id = 'vs-eye-screening-results'): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+== fsh-generated/resources/ValueSet-vs-neonatal-hearing-screening-results.json ==
+ERROR: ValueSet/vs-neonatal-hearing-screening-results: ValueSet.compose.include[0].concept[0]: The code '280413001' is not valid in the system http://snomed.info/sct (Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.)
+INFORMATION: ValueSet/vs-neonatal-hearing-screening-results: ValueSet.compose.include[0].concept[0]: Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+ERROR: ValueSet/vs-neonatal-hearing-screening-results: ValueSet.compose.include[0].concept[1]: Error from https://apps.health.belgium.be/ontoserver/fhir: Error: Invalid request: The FHIR endpoint on this server does not know how to handle POST operation[ValueSet/$batch-validate-code] with parameters [[]]
+Information: X-Request-Id: 5663af93-802d-4953-8840-2795b7924da0
+WARNING: ValueSet.where(id = 'vs-neonatal-hearing-screening-results'): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+== fsh-generated/resources/ValueSet-vs-ophthalmologist-treatments.json ==
+ERROR: ValueSet/vs-ophthalmologist-treatments: ValueSet.compose.include[0].concept[0]: The code '183131009' is not valid in the system http://snomed.info/sct (Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.)
+INFORMATION: ValueSet/vs-ophthalmologist-treatments: ValueSet.compose.include[0].concept[0]: Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
+WARNING: ValueSet.where(id = 'vs-ophthalmologist-treatments'): Error from https://apps.health.belgium.be/ontoserver/fhir: Can not determine authorisation; no credentials were provided.
